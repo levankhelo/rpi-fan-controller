@@ -2,7 +2,7 @@
 simple controller for rpi 5 fan. 
 
 Originally made to control fan via ssh for Homebridge.
-i used "hacky" solution as i have rpi clusters, and added following configuration of `Script2` homebridge plugin
+i used "hacky" solution as i have rpi clusters, and added following configuration of `homebridge-Script2` plugin for Homebridge
 ```json
 {
     "accessory": "Script2",
